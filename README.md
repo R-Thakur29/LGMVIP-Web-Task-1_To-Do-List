@@ -6,7 +6,7 @@ A simple To-Do-List web app built using HTML, CSS and JavaScript. It allows user
 
 2) Mark tasks as completed: Completed tasks can be marked by checking the checkbox next to each task.
 
-3) Delete tasks: Users can remove tasks from the list by clicking the "Delete" button.
+3) Delete tasks: Users can remove tasks from the list by clicking the " X " icon.
 
 # To check the web app click link below
    check live : https://r-thakur29.github.io/LGMVIP-Web-Task-1_To-Do-List/
